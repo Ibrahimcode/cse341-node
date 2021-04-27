@@ -1,0 +1,16 @@
+{
+  "name": "express-assignment-1",
+  "version": "1.0.0",
+  "description": "This is the first express assignment in section 05",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon express-server.js"
+  },
+  "author": "Ibrhaim Kamara",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}

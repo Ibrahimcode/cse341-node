@@ -1,0 +1,15 @@
+{
+  "name": "section04",
+  "version": "1.0.0",
+  "description": "Complete Node.js guide",
+  "main": "routes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Ibrahim Kamara",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
